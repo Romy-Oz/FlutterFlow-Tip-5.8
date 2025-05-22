@@ -1,4 +1,4 @@
-CREATE VIEW vw_daily_pnl3 AS
+CREATE VIEW vw_daily_pnl AS
 SELECT 
   "LabaRugi_id",
   "asOfDate",
